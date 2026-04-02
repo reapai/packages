@@ -18,7 +18,7 @@ for (const [pkg, config] of Object.entries(PACKAGES)) {
 
   const pkgJson = {
     name: pkg,
-    version: "0.1.0",
+    version: "0.1.1",
     description: config.description,
     bin: { [pkg]: "./cli.js" },
     keywords: config.keywords,
