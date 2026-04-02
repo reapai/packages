@@ -1,6 +1,6 @@
-# reap CLI
+# reap Packages
 
-AI video clipping, captioning, dubbing, and repurposing from the terminal.
+npm packages for AI video clipping, captioning, dubbing, and repurposing — powered by [reap.video](https://reap.video).
 
 ## Quick Start
 
