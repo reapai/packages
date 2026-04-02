@@ -27,7 +27,7 @@ for (const [pkg, config] of Object.entries(PACKAGES)) {
     homepage: config.homepage,
     repository: {
       type: "git",
-      url: "https://github.com/reapai/cli",
+      url: "https://github.com/reapai/packages",
     },
     engines: {
       node: ">=16",
